@@ -1,0 +1,21 @@
+{
+  "title": "Iron and Ink",
+  "subtitle": "A Novel",
+  "genre": "Historical adventure",
+  "author": "Walusimbi Leon",
+  "description": "A railway engineer and a banned newspaper editor flee across a continent by train as an empire collapses \u2014 racing to print the truth before the border closes.",
+  "style": "Rousing, cinematic third-person. Clack of rails, steam, ink on fingers. Momentum and danger.",
+  "characters": "Tomas \u2014 engineer, practical, stubborn; Esin \u2014 editor, fearless, fluent in three tongues of resistance.",
+  "setting": "A fracturing colonial railway, 1960.",
+  "notes": "Open with the last train leaving the capital as crowds riot. Two strangers share a compartment. The chase begins immediately.",
+  "chapterTitle": "Chapter",
+  "mdFiles": [
+    "v2.0/book.md"
+  ],
+  "htmlFiles": [
+    "v2.0/book.html"
+  ],
+  "indexInject": null,
+  "mdHeadingLevel": 3,
+  "targetWords": 2000
+}
