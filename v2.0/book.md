@@ -156,6 +156,116 @@ Esin looked at the mountains, then at him. "No," she said. "But we're going to c
 
 And the train ran on, into the dark, with the fires behind them and the mountains ahead, and the truth in a leather satchel, waiting for its chance.
 
+### Chapter 3 — The Weight of Paper
+
+The gauge needle trembled at the edge of the red. Tomas knew that tremor — it was the sound of a boiler begging, a metal heart skipping beats. He'd driven engines until they wept steam and still coaxed them another hundred miles, but this was different. This was a death rattle.
+
+"Mbano," he called forward, "how much pressure you showing?"
+
+The fireman's voice came back thin through the rattling cab. "One-forty and falling. She's sucking air through every seam."
+
+Tomas wiped his face with a rag that was already black. The night air through the open window was cool, but the cab was an oven, and the sweat had long since stopped being sweat and become part of his skin. He could feel the engine's fatigue in his own bones, a sympathy of steel and flesh.
+
+"We need to bleed the injector," he said, more to himself than anyone. "Check the feedwater."
+
+Mbano was already moving, his slight frame disappearing into the gloom between the tender and the boiler. The train shuddered — a long, low groan that ran through the floorboards and up Tomas's spine. He'd heard that groan before, on the night the bridge at Kalinga gave way, and he'd walked away from the wreckage with a broken collarbone and a dead fireman's cap in his pocket.
+
+Esin watched him. She'd been watching him for the past hour, studying him the way she might study a document — looking for watermarks, for the telltale signs of forgery. He didn't mind. There was nothing hidden in him; he was all surface, all calloused hands and coal dust and the slow, stubborn patience of a man who'd learned to wait out every storm.
+
+"How much further?" she asked.
+
+"To the border? A hundred and forty miles, give or take the war."
+
+"Give or take the war." She repeated the words like she was tasting them. "You have a way of making everything sound like a timetable."
+
+"Everything is a timetable," Tomas said. "Trains prove it. Wars too, if you read the right dispatches."
+
+She made a small sound — not quite a laugh, but close. "You read dispatches?"
+
+"Firemen talk. You'd be surprised what you hear in the roundhouse." He checked the gauge again. The needle had stopped falling, which was something. "There's a station at Kifaru. Another forty miles. If we can make that, there's a coal chute and a water column. The British kept it stocked until last month."
+
+"Last month is a long time in this country."
+
+"It's a long time anywhere." He pulled the shovel from its cradle and worked the firebox door open. The heat hit him like a wall, and he fed the flames with practiced, rhythmic strokes — turn, lift, throw, close. The fire roared, hungry and bright, and the needle on the gauge gave a small, hopeful twitch.
+
+Behind them, the sky was beginning to lighten. Not with dawn — it was still hours off — but with something else. A glow on the horizon, orange and flickering, the color of burning grain. Tomas watched it in the side mirror for a long moment, then looked away.
+
+"They're firing the fields," Esin said quietly. She'd moved closer to the window, her satchel pressed against her chest. "It's what they do when they leave. Burn everything behind them so there's nothing to come back to."
+
+"They're not leaving," Tomas said. "They're handing over."
+
+"Same thing, depending on who you ask."
+
+He didn't argue. He'd learned that arguments with Esin were like arguments with the weather — you could shout all you wanted, but the rain was coming anyway. Better to just keep moving.
+
+The track curved, and the train leaned into it, wheels grinding against the rails in a long metallic scream. Tomas braced himself against the coal bunker and felt the familiar tug of centrifugal force. The engine was holding, but barely. He could feel every rivet, every bolt, every weld that had been patched and re-patched over the decades.
+
+"Four-oh-seven," he muttered. "You old bitch. Don't you dare quit on me now."
+
+"She won't," Esin said. "She's got too much pride."
+
+Tomas looked at her. In the growing light, her face was streaked with soot — she'd been in the cab long enough that the coal dust had settled into the lines of her skin, giving her the look of a woman who'd been drawn in charcoal. Her eyes were bright, though. Unforgivingly bright.
+
+"You know engines?" he asked.
+
+"I know what it looks like when something refuses to die." She met his gaze. "Same thing in people. Same thing in countries."
+
+The train crested another rise, and the land opened up ahead of them — a long valley, dark and silent, threaded by a silver ribbon of river. And on the far side, just visible in the first gray light of false dawn, the mountains. The border. The end of the line.
+
+Kifaru station appeared out of the murk like a ghost. The platform was empty, the buildings dark, the signal arm hanging limp and dead. No coal chute. No water column. Just a rusted water tower and a pile of dust where the coal should have been.
+
+"Someone beat us to it," Mbano said, his voice flat.
+
+Tomas brought the train to a stop with a long, groaning sigh of brakes. The engine shuddered once, twice, then settled into a low idle, ticking like a cooling clock. He swung down from the cab, boots crunching on gravel, and walked to the water tower. The pipe was dry. The valve handle came off in his hand, rusted clean through.
+
+"They didn't just beat us," he said, tossing the handle aside. "They made sure we couldn't follow."
+
+Esin climbed down from the cab, satchel in hand. She walked past him without a word, down the platform, and stopped at the station door. It was padlocked, but the lock was new — bright steel, shiny in the gloom. She studied it for a moment, then reached into her coat and produced a small leather case.
+
+"What are you doing?" Tomas asked.
+
+"Opening the door."
+
+She knelt, and he heard the click of picks against metal. A minute passed. Two. Then the lock gave with a sharp *snick*, and the door swung open. Esin disappeared inside.
+
+Tomas followed. The station was a single room — ticket window, bench, a desk buried under papers. A telegraph key sat on the desk, dusty and silent. Esin went straight to it, ran her fingers over the brass, then pressed the key. A weak spark jumped. The sounder clicked once, twice.
+
+"Dead," she said. "They cut the line."
+
+"Then we're on our own." Tomas leaned against the doorframe, arms crossed. "No coal, no water, no telegraph. The border's still a hundred miles out."
+
+Esin didn't answer. She was studying the papers on the desk, rifling through them with quick, precise movements. She pulled one free — a yellowed form, stamped with an official seal — and held it up to the light.
+
+"Supply manifest," she said. "Dated three weeks ago. A coal delivery, scheduled for this station, routed through the eastern line."
+
+"That's a dead line," Tomas said. "They pulled the track last year."
+
+"Did they?" She turned the paper over, ran her finger along a line of cramped handwriting. "This says otherwise. It lists a siding at Kilometer 212. A spur off the main line, marked as 'maintained for emergency use.'"
+
+Tomas frowned. "I've run this line for twenty years. There's no spur at 212."
+
+"There is if someone built it without telling you." Esin folded the paper and tucked it into her satchel. "Whoever signed this manifest knew about it. And if they knew about it, there might be coal there. Someone would have stored it."
+
+"Or someone would have stolen it."
+
+"Either way, it's worth looking."
+
+Tomas stared at her. The woman had a way of making the impossible sound merely inconvenient. He'd met men like that before — the ones who could look at a derailed train and see a way to put it back on the track. They were rare, and they were usually dead, because they were also the ones who kept fighting long after everyone else had given up.
+
+"Kilometer 212," he said. "If it's not there, we're walking the rest of the way."
+
+"Then we walk." She was already moving, out the door and back toward the engine. "But we're not stopping here."
+
+Tomas followed, and as he climbed back into the cab, he found himself thinking about the papers in her satchel. Names, she'd said. Documents. Proof. The truth, waiting for its chance.
+
+He'd spent his life moving things — coal, passengers, cargo, armies. He'd never once thought about moving truth. But here he was, driving a train full of ghosts toward a border that might not exist, with a woman who carried the weight of a country in a leather bag.
+
+The engine's firebox glowed, hungry and patient.
+
+"Kilometer 212," Tomas said, and opened the throttle.
+
+The wheels turned. The train moved. And behind them, the fires of the burning fields crept closer, painting the sky in shades of amber and grief.
+
 ---
 
 ## About This Book
