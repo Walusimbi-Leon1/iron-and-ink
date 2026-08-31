@@ -266,6 +266,106 @@ The engine's firebox glowed, hungry and patient.
 
 The wheels turned. The train moved. And behind them, the fires of the burning fields crept closer, painting the sky in shades of amber and grief.
 
+### Chapter 4 — The Siding at 212
+
+The track ran through country that had given up pretending. Thorn scrub and dry riverbeds, the bones of cattle bleaching in the ditches. Tomas kept the engine at a walking pace, eyes fixed on the kilometer markers as they slid past — 218, 217, 216 — each one a small death of hope.
+
+"She said three weeks ago," Esin called from the cab doorway. The wind had picked up, pulling strands of hair across her face. "The manifest was stamped three weeks ago. That's not long."
+
+"Long enough for a lot of things to change." Tomas didn't look at her. "Three weeks ago, there were still soldiers at the border. Three weeks ago, the telegraph was working."
+
+"And three weeks ago, I was still printing a newspaper that the government called illegal." She climbed into the cab beside him, bracing herself against the coal bunker. "Time moves differently when you're fighting. A day is a year. A week is a lifetime."
+
+Tomas grunted. He'd been fighting the engine all morning — a sticking valve, a weeping steam line, the eternal hunger of the firebox. The locomotive was old, and she knew it. Every mile she complained, every grade she groaned. But she was still moving, and that was more than he could say for half the country.
+
+"214," he said. "Two more."
+
+The valley narrowed. The river had vanished into the rocks, leaving only a dry wash littered with stones the size of fists. The track ran along the edge of a ravine, the drop sharp and unforgiving on the left. On the right, the hills rose up, scarred with old mining claims and newer graves.
+
+"213," Esin said. She was counting them now, her voice tight. "212."
+
+Tomas pulled the throttle back. The brakes sighed, and the train came to a stop in a hollow between two low hills. The track ahead was empty — just rails and ties and the heat shimmer rising from the stones.
+
+"No spur," he said.
+
+Esin was already out of the cab, walking ahead of the engine, her boots crunching on the gravel. She stopped at a point where the hillside seemed to curve inward, and she stood there, very still, studying the ground.
+
+"Come here," she said.
+
+Tomas dropped down from the cab and walked to where she stood. She was looking at a patch of ground where the gravel had been disturbed — a broad, flat area of tamped earth, overgrown with weeds but unmistakably man-made.
+
+"Someone's been here," she said. "Recently."
+
+Tomas knelt. The weeds were bent, not broken. A tire track, faint but visible, ran from the roadbed into the hillside. And there, half-hidden by a screen of thorn bush, was a gate. Iron bars, rusted but intact, chained and padlocked.
+
+"Son of a bitch," he breathed.
+
+He found a crowbar in the tool locker and worked it between the chain links. The metal gave with a groan, and the gate swung open on screaming hinges. Beyond it, a siding — a secondary track, overgrown but intact, curving into the hillside and disappearing around a bend.
+
+"Kilometer 212," Esin said. "Someone built a secret." 
+
+They walked the siding, the engine following at a crawl. The track curved for a quarter mile, then opened into a cut — a natural bowl in the hillside, hidden from the main line. And there, under a corrugated iron roof, sat a pile of coal. A small mountain of it, black and gleaming, untouched.
+
+And beside it, a water tank. Full.
+
+Tomas stared. He'd seen a lot in twenty years on the rails — derailments, floods, strikes, a bridge that had collapsed under a troop train with two hundred men aboard. But he'd never seen a hidden coaling station, built in secret, stocked and waiting.
+
+"Who did this?" he asked.
+
+Esin was already walking toward the coal pile. She picked up a lump, turned it over in her hands. "Does it matter?"
+
+"It matters who I'm trusting." He caught her arm, gently but firmly. "This could be a trap. A decoy. Someone's watching."
+
+"Then they're watching us find their coal." She met his eyes. "Whoever built this was planning for something. For a time when the main line was cut. For a time when someone needed to get through."
+
+"Or for a time when someone needed to be stopped."
+
+Esin smiled. It was a thin expression, barely a curl of the lip, but it was there. "You know what I like about engineers, Tomas? You always assume the worst. It's why you're still alive."
+
+"And you?" 
+
+"I assume the worst and plan for it anyway." She dropped the coal and walked back toward the engine. "Let's get loaded. We've got a border to find."
+
+---
+
+They worked in silence, shoveling coal into the tender until Tomas's arms burned and his back screamed. Esin hauled water, hand over hand on the pump, her face gone red with effort. The sun climbed overhead, and the heat settled over the cut like a blanket.
+
+By noon, they were ready. Tomas climbed into the cab, wiped his face with a rag that was already black, and checked the gauges. Steam pressure was up. Water was full. The firebox was roaring.
+
+"Fifteen miles to the border," he said. "Maybe less. The track's still there, far as I know."
+
+"And when we get there?"
+
+"Then we find out if the border's still there too."
+
+He opened the throttle. The engine shuddered, then moved, pulling out of the cut and back onto the main line. The wheels found their rhythm — *clack, clack, clack* — and the miles began to fall away.
+
+The country changed as they climbed. The scrub gave way to pine, the heat to a thin, dry wind that smelled of snow. The mountains rose ahead of them, their peaks white against a sky the color of hammered steel.
+
+"Border post at Nkulu," Tomas said. "It's been there since the British drew the line. Customs house, immigration, a barracks for the guards."
+
+"And the new government?"
+
+"New government, same building. They painted the flag, but the wire's the same."
+
+Esin was quiet for a moment. Then she reached into her satchel and pulled out a folded newspaper. Tomas caught a glimpse of the masthead — *The Clarion* — and the headline, black and bold: THE TRUTH ABOUT THE TERROR.
+
+"This is what we're carrying," she said. "The full account. Names, dates, orders. The massacres at Kilwa. The arms shipments. The money trails. The men who signed it all, who are still in power, who are calling themselves patriots while they bury their own people."
+
+Tomas glanced at the paper, then back at the track. "And you think this will stop them?"
+
+"I think it will start something." She folded the paper and put it away. "That's all I can do. Start something."
+
+The border post appeared out of the haze. A low white building, a barrier gate, a flag drooping in the dead air. No soldiers visible. No movement at all.
+
+Tomas slowed the train. The brakes sighed, and they came to a stop fifty yards from the gate.
+
+"Empty," he said.
+
+"Or waiting."
+
+They sat there, the engine idling, the steam hissing. The border waited, silent and still. And somewhere behind them, in the valley they'd left, the fires still burned.
+
 ---
 
 ## About This Book
