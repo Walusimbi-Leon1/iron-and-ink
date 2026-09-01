@@ -366,6 +366,106 @@ Tomas slowed the train. The brakes sighed, and they came to a stop fifty yards f
 
 They sat there, the engine idling, the steam hissing. The border waited, silent and still. And somewhere behind them, in the valley they'd left, the fires still burned.
 
+### Chapter 5 — The Paper and the Wire
+
+The gate didn't open.
+
+Tomas let the engine idle for a full minute, watching the white building for any sign of life. A curtain twitched in a window — or maybe it was just his eyes playing tricks in the heat. The flag above the customs house hung limp, its colors faded to the point of indistinction. Somewhere beyond it, the road crossed into the next country, a free country, a country that still answered its telegrams.
+
+"Stay here," he said.
+
+Esin didn't argue. She was already crouched behind the coal bunker, her hand inside her satchel. He didn't ask what she was holding. He didn't want to know.
+
+He dropped to the ballast and walked toward the gate. The gravel crunched under his boots. The silence was wrong — too deep, too complete. A border post should have dogs, radios, the clatter of a cookpot. This one had nothing but the wind and the creak of the barrier chain.
+
+The customs house door was open. Not wide — just a crack, dark against the whitewashed wall. He pushed it with the toe of his boot.
+
+Inside, the office was neat. A desk, a chair, a filing cabinet. A calendar on the wall showing a month that had already passed. An inkwell, dried to a crust. A mug with tea dregs at the bottom, a skin of scum on top. The room had the feel of being abandoned quickly — not evacuated, not packed, just left. The kind of leaving that happens when the leaving isn't planned.
+
+He crossed to the telegraph key on the side table. The wire was dead, of course. It had been dead for weeks, he guessed, from the dust on the brass. But the key wasn't the only thing on the table. Beneath it, half-hidden by a sheaf of blank forms, was a piece of paper. Torn, creased, carrying a boot print across one corner.
+
+He picked it up. Held it to the light.
+
+*From: Office of Internal Security, Capital Division. To: All Border Posts. Subject: Closure Directive 14-B. Effective immediately, all crossings are suspended. No exceptions. Persons attempting to cross will be detained.— Col. M. Voss.*
+
+Tomas folded the paper and slid it into his pocket. He walked back out into the sun and stood at the barrier, looking at the road beyond. It was a good road — paved, maintained, running straight toward the horizon where the mountains opened into a pass. He could almost see the next station from here. The flags of a different country. The promise of a different law.
+
+He could also see the tire tracks. Fresh, deep, cutting through the dust on the far side of the barrier. A truck, at least three tons, coming and going. Multiple passes. Recent.
+
+"Tomas!"
+
+Esin's voice was sharp. He turned. She was pointing back down the line, toward the valley they'd climbed out of. Smoke — not from a chimney, not from a cookfire. Black, churning, rising from behind a ridge about five miles back. A column of it, thick and purposeful.
+
+"That road we passed," she said. "The one with the fresh tracks."
+
+He looked again. The smoke was moving, drifting south, parallel to the railway. A vehicle on the road, moving fast. Or several.
+
+He walked back to the engine at a jog. Esin met him at the cab steps.
+
+"They're coming," she said.
+
+"Could be anyone."
+
+"Could be." She didn't sound convinced. "But they're coming the same way we came."
+
+He climbed into the cab, checked the gauges. Steam was holding. Water was good. The fire was hot. He'd been ready to go even before he'd found the directive — the engine had been ready, waiting, as if she knew the border was close.
+
+He looked at the closed gate, then at the tracks on the road, then at the smoke. The paper in his pocket felt like a stone.
+
+"The order says the border's closed," he said. "Signed three days ago."
+
+"Then we go around it." Esin was already moving toward the side of the track. "The line curves east of the post. There's a creek bed, runs parallel to the border for a mile. We can cross where the wire dips into the gully. The fence won't stop a locomotive."
+
+"You've scouted this?"
+
+"I've read the maps." She looked back at him, and there was something hard in her eyes. "I was planning to leave a long time ago. I just didn't know I'd have a train to do it in."
+
+He didn't move. The engine idled beneath him, a low, patient thunder. The smoke on the road was getting closer.
+
+"There's a bend ahead," he said. "About half a mile up. The track's cut into the hillside — line of sight will be blocked from the post for about a minute." He looked at her. "I can't slow down for you."
+
+"I can run." She was already off the step, moving along the track bed with a sure-footedness that surprised him. "The creek bed's at the bend. I'll be there when you pass."
+
+She was gone before he could argue, a dark figure against the pale stones, moving with the economy of someone who had spent a lifetime learning how to leave.
+
+Tomas pulled the throttle. The engine surged, and the train began to roll.
+
+The border post slid by on his left. The white building, the dead telegraph, the paper in his pocket. He didn't look at it. He watched the track ahead, counting the seconds to the bend, feeling the weight of the train beneath him, the hunger of the firebox, the old locomotive's familiar complaints.
+
+She was tired, this engine. Tired and old and scarred by a decade of hard running. But she was still alive. Still stubborn. Still carrying.
+
+The bend came. He cut the throttle, let the momentum carry them around the curve, and there — there she was. Esin, standing at the edge of a dry creek bed, her satchel slung over her shoulder, her hair wild in the wind. She was waiting.
+
+He opened the throttle wide. The engine roared, and the gap between them closed. She ran alongside the track for three strides, then reached out, caught the grab iron, and swung herself up onto the step. Her boots found the ledge. Her arm found the rail. She was in the cab before he could breathe.
+
+"Bend's clear," she said. "The creek runs about a hundred yards ahead. Wire's down in the gully — looks like it's been cut."
+
+"Cut?"
+
+"Or rotted. Either way, there's a gap." She met his eyes. "Big enough for a train."
+
+He looked at the track ahead. The creek bed was a raw slash across the land, cutting through the border fence like a scar. The wire sagged on either side, broken and trailing. Beyond it, the track continued — same rails, same ties, same gravel — but the ground on the other side was different. Greener. The mountains opened up. The sky seemed lighter.
+
+"Last time I crossed a border," he said, "there was a ceremony. A band. A politician shaking hands with a priest."
+
+Esin laughed — a short, sharp sound. "I'm sorry we couldn't arrange a band."
+
+"Maybe next time." He pulled the throttle back, felt the engine take the grade, felt the wheels bite into the rails. The creek bed rushed toward them. The broken wire loomed. He didn't close his eyes. He didn't flinch.
+
+The locomotive hit the gap at speed, and the world shuddered — a hard, jarring drop, a lurch that threw him against the coal bunker, a scream of metal that turned into a howl of triumph as the wheels found the track on the other side and bit.
+
+They were across.
+
+He looked back. The border post was small now, a white smudge on a brown hillside. Beyond it, the column of smoke had reached the valley floor, and he could see the truck now — a dark shape, moving fast, following the road toward the closed gate.
+
+Esin was standing in the cab doorway, looking back too. The wind pulled at her hair, and for a moment she looked young — younger than her years, younger than the paper she carried, younger than the truth she was racing to print.
+
+"Now what?" he asked.
+
+She turned to him. The wind had brought tears to her eyes, or maybe something else had. She blinked them away.
+
+"Now we find a press," she said. "And we tell the world."
+
 ---
 
 ## About This Book
