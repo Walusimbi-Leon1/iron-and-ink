@@ -466,6 +466,124 @@ She turned to him. The wind had brought tears to her eyes, or maybe something el
 
 "Now we find a press," she said. "And we tell the world."
 
+### Chapter 7 — The Greener Side
+
+The country on the other side of the wire smelled like wet eucalyptus and woodsmoke.
+
+Tomas noticed it first as a change in the air entering the cab — cooler, damper, carrying the mineral tang of running water. The dry heat of the borderlands had broken against the mountains like a wave, and what spilled through the passes was something older, something the rains still remembered. The grass on the embankment was knee-high and green. Butterflies — actual butterflies — drifted across the track in front of the headlamp.
+
+"We're in," Esin said. She was still standing in the doorway, one hand on the frame, watching the landscape unfold. Her voice carried no triumph. Only the flat confirmation of someone who had learned long ago that crossing a line on a map changes less than people think.
+
+"How far to the next station?" Tomas asked.
+
+She pulled a folded map from her satchel — creased, annotated in two colours of ink, with little arrows drawn in pencil at the margins. She spread it against the coal bunker and studied it, her lips moving silently. "Thirteen kilometres. Small stop. Kamundi Junction, if the names haven't changed."
+
+"Have they changed?"
+
+"Everything's changed." She folded the map and looked at him. "Kamundi used to have a telegraph office. A postmistress named Ayo who sold cold drinks from a tin cooler on the platform. Whether any of that still exists, I can't tell you."
+
+Tomas watched the track. The rails here were in better condition than the ones they'd been running on — someone was still maintaining this line, or had been until recently. The ties were intact, the ballast even. The engine responded to it, settling into a steadier rhythm, the vibrations smoothing out beneath his feet like a singer finding a key.
+
+"The trucks," he said.
+
+Esin turned back to look. The border was a fold in the landscape now, a line of brown hills against the western sky. The smoke they'd seen was gone — either the vehicles had stopped or they'd moved beyond a ridge. But that didn't mean anything. Directive 14-B was a document that moved at the speed of its own consequences. Other posts would receive it. Other officers would act. And two people on a stolen locomotive were not hard to describe.
+
+"They can't follow us across," Esin said. "Not openly. Not in daylight. This country hasn't surrendered its sovereignty yet."
+
+"Yet."
+
+She looked at him. "You're learning the right words."
+
+The engine carried them forward through a cutting and into a wide valley where a river ran brown and slow, hugging the base of a hill. Cattle stood in the shallows, watching the train pass with bovine indifference. A child waved from a footbridge. Tomas waved back, then felt the strange weight of it — the normalcy, the ordinary kindness, the world continuing on one side of a fence while burning on the other.
+
+Kamundi Junction announced itself with a rusted sign and a platform of packed red earth. There were buildings — a goods shed with its doors hanging open, a water tower with a streak of lime running down its face, a small station house with a corrugated roof. A figure in a faded uniform stood on the platform, squinting at the approaching locomotive as if trying to determine whether he was dreaming.
+
+Tomas eased the throttle back and let the engine coast. The brakes squealed — old, protesting — and the wheels ground against the rails until they stopped with a final jolt. Steam vented from the cylinder cocks in white plumes that curled around the running board.
+
+The station master — or whatever he was — approached with the slow authority of a man who had not seen a train in several days and intended to make the most of the encounter.
+
+"You're not on the schedule," he said.
+
+"No," Tomas agreed.
+
+"This line's supposed to be suspended."
+
+"It doesn't look suspended to me."
+
+The man looked at the engine, at the water level gauge, at the coal supply visible through the bunker doors. He looked at Esin, who was stepping down from the cab with her satchel over her shoulder and her map in her hand. He looked at the south, where the mountains turned brown and the border waited.
+
+"Where are you headed?" he asked.
+
+"Nairobi," Esin said.
+
+"That's four hundred kilometres."
+
+"Less if the track holds."
+
+The station master rubbed his chin. He was old — mid-sixties, maybe — with the particular lean of a man who had spent his life standing on platforms. His uniform might have been khaki once. Now it was the colour of the earth, as if he'd been slowly turning into the landscape.
+
+"There's a press in Kamundi village," he said. "About a kilometre east of here. The church — St. Aloysius — they've got a mimeograph. Ran the parish bulletin until Father Brennan had his stroke." He paused. "That was two years ago. Might still work."
+
+Esin looked at Tomas. The word *mimeograph* hung in the air between them — crude, slow, limiting. Not a Linotype, not an offset press, not anything that could print ten thousand copies at speed. But a mimeograph could make a hundred copies. A hundred copies could become a thousand if they were passed hand to hand, folded into pockets, slipped under doors, read aloud in market squares.
+
+"A hundred copies," she said. "That's a start."
+
+"Water," Tomas said. "If you've got water, that's what I need. The tank's down to a third."
+
+The station master nodded slowly. "Tower's full. Haven't had a train through here in six days, but the pump still works. Government comes by once a week with a truck, fills the tower whether there's a train or not. Bureaucracy." He almost smiled. "Waste of water, if you ask me, but I'm not the one asking."
+
+"I'll take the water," Tomas said. He looked at Esin. "You go find the church."
+
+"I know where it is." She was already moving.
+
+He watched her walk — quickly, purposefully, her satchel bouncing against her hip. She turned east at the end of the platform and disappeared behind the goods shed, her footsteps crunching on the gravel, then gone.
+
+Tomas climbed back into the cab and began the slow work of filling the tank. The station master operated the valve, and water rushed through the pipe with a sound like rainfall on tin. Tomas used the time to check everything — the firebox, the grate, the ash pan. The old engine was tired but sound. She'd carried them four hundred kilometres through hostile territory and across a closed border, and she was still asking for more. He placed his hand on her boiler and felt the heat, the deep, pulsing warmth of pressurised water and burning coal. She was alive. She was the most alive thing he'd ever known.
+
+The water filled. He topped the tank and shut the valve. The station master handed him a tin mug of something that turned out to be weak tea, warm and barely sweet, and Tomas drank it standing on the platform in the green light of the afternoon.
+
+"The country's falling apart," the station master said. It wasn't a question.
+
+"Yes."
+
+"I figured. The mail's stopped. The trains stopped. The telegraph's been dead since April." He leaned against the water tower and looked south, toward the border. "My daughter's in Dar es Salaam. My son's in Kampala. I haven't heard from either of them in three months."
+
+Tomas set the mug down. "I'm sorry."
+
+"Don't be sorry. Be useful." The old man looked at him with sudden sharpness. "That woman — she's not just running, is she? She's carrying something."
+
+Tomas said nothing.
+
+"Right," the station master said. He pushed off the tower and straightened his uniform, a gesture so automatic it was almost comic. "I'll keep the line clear as long as I can. There's a siding at kilometre marker 207 — about thirty kilometres north. If you need to hide the engine, that's where I'd go. The bush grows right up to the rails. Trees over the track. You'd have to cut through, but you'd be invisible from the air."
+
+"There won't be planes," Tomas said. "Not yet."
+
+"Not yet," the station master agreed. "But 'not yet' doesn't last long."
+
+Esin returned forty minutes later, her face flushed, her hands stained with ink.
+
+"It works," she said. "The mimeograph. Father Brennan's replacement — a young man named Peter — he showed me how to operate it. The stencil paper's old, but it's usable. I've typed the directive already. The whole text. Voss's signature. The date. The language about no exceptions."
+
+"Stencils?"
+
+"I found a typewriter in the sacristy. An old Underwood. The ribbon's nearly dry, but it still makes an impression on the stencil." She held up her hands — the ink was under her nails, on her palms, in the creases of her fingers. "This is how it begins, Tomas. Not with ten thousand copies. Not with a broadsheet. With a hundred sheets of paper, typed by hand, duplicated by a machine designed for church bulletins."
+
+"That's small."
+
+"Everything starts small. The question is whether it starts at all." She looked at the engine, at the filled water tank, at the open track ahead. "How fast can you run?"
+
+He looked north, toward the siding the station master had described. Thirty kilometres. The bush. The cover. The time to think, to plan, to decide what came next. Then Nairobi. Then a real press. Then the world.
+
+"As fast as she'll go," he said.
+
+He climbed into the cab. Esin climbed after him. The station master stood on the platform, one hand raised, not waving — just holding the pose, as if committing the image to memory. Two people on a train, heading north, carrying something worth the crossing.
+
+Tomas opened the throttle. The engine answered. Water surged in the boiler, coal caught and burned, and the old locomotive pulled away from Kamundi Junction with a long, shuddering sigh. The steam trail stretched behind them like a white banner, visible for miles — a signal, a confession, a line drawn across the sky.
+
+On the platform, the station master watched until the train disappeared around the bend. Then he walked to the telegraph office, sat down at the dead key, and stared at it for a long time.
+
+"Useful," he said to no one. And began to write a letter by hand.
+
 ---
 
 ## About This Book
